@@ -1,21 +1,21 @@
-
 # Mobility ML Suite — ETA, Pricing, Maintenance & NLP
 
-End-to-end mobility data-science project that mirrors real work:
-- **ETA quantiles** → **pricing** with business rules  
-- **Predictive maintenance** from telematics (anomaly + calibrated risk)  
-- **NLP incident/feedback triage**  
-- **Productionization**: FastAPI services, monitoring with Evidently, and tests
+End-to-end mobility/data-science project that mirrors real work:
 
-> Tech: Python 3.11 · FastAPI · scikit-learn · pandas · joblib · Evidently · Streamlit  
-> OS focus: Windows/PowerShell (commands work cross-platform with small tweaks)
+* **ETA quantiles** → **pricing** with business rules
+* **Predictive maintenance** from telematics (anomaly + calibrated risk)
+* **NLP incident/feedback triage**
+* **Productionization**: FastAPI services, monitoring with Evidently, and tests
 
+> Tech: Python 3.11 · FastAPI · scikit-learn · pandas · joblib · Evidently · Streamlit
+> OS focus: Windows/PowerShell (commands work cross‑platform with small tweaks)
 
+---
 
 ## Project structure
-```
 
-api/                      # FastAPI apps: eta\_service\_pricing.py, maintenance\_service.py, nlp\_service.py
+```
+api/                      # FastAPI apps: eta_service_pricing.py, maintenance_service.py, nlp_service.py
 app/                      # Streamlit mini apps (quote tool, NLP triage)
 scripts/                  # Training + utilities + monitoring
 src/                      # Feature code (ETA)
@@ -23,21 +23,21 @@ outputs/                  # Models, logs, reports (created at runtime)
 tests/                    # Tiny sanity tests (pytest)
 requirements-api.txt      # Runtime deps (Pydantic v1)
 requirements-dev.txt      # Dev/monitoring deps (Evidently, Streamlit, etc.)
-
-````
+```
 
 ---
 
-## Environments (two-venv setup)
+## Environments (two‑venv setup)
 
 This repo intentionally uses **two virtual environments** to avoid dependency clashes between FastAPI (Pydantic v1) and Evidently.
 
 ### 1) API env — run the services (FastAPI + Pydantic v1)
+
 ```powershell
 py -3.11 -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements-api.txt
-````
+```
 
 ### 2) Dev/monitoring env — build reports & Streamlit
 
@@ -52,7 +52,7 @@ pip install evidently==0.4.15 streamlit==1.36.0 plotly==6.3.0 statsmodels==0.14.
 
 ---
 
-## Train models (one-time or whenever you retrain)
+## Train models (one‑time or whenever you retrain)
 
 ```powershell
 # Activate API env first
@@ -148,8 +148,6 @@ python scripts\build_evidently_report.py
 start .\outputs\monitoring\evidently_report.html
 ```
 
-Add 1–2 screenshots of the report to your repo.
-
 ---
 
 ## Streamlit mini apps (optional)
@@ -209,13 +207,8 @@ outputs/
 
 ## License
 
-MIT — see [LICENSE](LICENSE) (or choose your preferred license).
+MIT — see LICENSE (or choose your preferred license).
 
 ## Author
 
 Your Name — LinkedIn • Portfolio
-
-```
-
-::contentReference[oaicite:0]{index=0}
-```
