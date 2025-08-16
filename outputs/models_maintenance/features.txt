@@ -1,0 +1,15 @@
+engine_temp_c
+battery_v
+vibration
+speed_kmh
+temp_mean_16
+volt_mean_16
+vib_mean_16
+high_temp
+low_volt
+rush_hour
+temp_mean_96
+volt_mean_96
+spd_mean_96
+vib_mean_96
+anomaly_score

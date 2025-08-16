@@ -1,0 +1,301 @@
+ticket_id,ts,city,channel,text,label
+T0000,2025-08-16T05:21:49.153431,Hamburg,app,Need help changing my booking time.,Support
+T0001,2025-08-14T11:02:49.153431,Berlin,phone,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0002,2025-08-16T02:44:49.153431,Berlin,app,Driver was speeding and driving aggressively.,Driver_behavior
+T0003,2025-08-12T06:25:49.153431,Cologne,app,I was overcharged for a 11 km trip; fare seems wrong.,Pricing
+T0004,2025-08-16T15:28:49.153431,Munich,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0005,2025-08-10T11:15:49.153431,Munich,app,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0006,2025-08-14T16:21:49.153431,Cologne,app,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0007,2025-08-03T01:18:49.153431,Hamburg,app,Battery warning light turned on while driving.,Vehicle_issue
+T0008,2025-08-04T14:09:49.153431,Berlin,email,I want a refund but the help center link is broken.,Support
+T0009,2025-08-03T15:42:49.153431,Munich,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0010,2025-08-10T04:58:49.153431,Berlin,app,My ride arrived 31 minutes late in Munich. ETA was wrong.,ETA_delay
+T0011,2025-08-08T11:46:49.153431,Munich,email,The estimated time to arrival was off by more than 18 minutes.,ETA_delay
+T0012,2025-08-10T17:12:49.153431,Berlin,phone,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0013,2025-08-04T15:18:49.153431,Munich,app,How do I contact support about a lost item?,Support
+T0014,2025-08-10T15:35:49.153431,Munich,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0015,2025-08-11T13:55:49.153431,Berlin,email,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0016,2025-08-15T06:52:49.153431,Munich,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0017,2025-08-11T22:53:49.153431,Cologne,email,Please update my email on the account.,Support
+T0018,2025-08-13T12:59:49.153431,Hamburg,app,I want a refund but the help center link is broken.,Support
+T0019,2025-08-03T11:45:49.153431,Cologne,phone,Promo code did not apply; charged full price.,Pricing
+T0020,2025-08-11T19:14:49.153431,Munich,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0021,2025-08-15T17:17:49.153431,Berlin,app,Driver was speeding and driving aggressively.,Driver_behavior
+T0022,2025-08-07T04:27:49.153431,Berlin,email,How do I contact support about a lost item?,Support
+T0023,2025-08-04T18:02:49.153431,Hamburg,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0024,2025-08-09T01:14:49.153431,Berlin,email,My ride arrived 31 minutes late in Hamburg. ETA was wrong.,ETA_delay
+T0025,2025-08-06T11:13:49.153431,Berlin,phone,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0026,2025-08-05T09:37:49.153431,Munich,phone,Please update my email on the account.,Support
+T0027,2025-08-13T07:32:49.153431,Hamburg,app,Pickup was late and the app kept changing ETA.,ETA_delay
+T0028,2025-08-03T03:54:49.153431,Hamburg,email,App kept crashing at checkout on Android.,App_bug
+T0029,2025-08-09T19:04:49.153431,Munich,app,My ride arrived 39 minutes late in Hamburg. ETA was wrong.,ETA_delay
+T0030,2025-08-05T17:36:49.153431,Berlin,phone,I was overcharged for a 4 km trip; fare seems wrong.,Pricing
+T0031,2025-08-05T23:26:49.153431,Munich,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0032,2025-08-11T23:20:49.153431,Munich,phone,Notification stuck; app shows spinner forever.,App_bug
+T0033,2025-08-08T07:04:49.153431,Cologne,phone,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0034,2025-08-11T03:37:49.153431,Munich,app,Driver was speeding and driving aggressively.,Driver_behavior
+T0035,2025-08-03T09:43:49.153431,Munich,phone,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0036,2025-08-15T10:51:49.153431,Munich,app,I was overcharged for a 4 km trip; fare seems wrong.,Pricing
+T0037,2025-08-10T10:55:49.153431,Cologne,app,Pickup was late and the app kept changing ETA.,ETA_delay
+T0038,2025-08-03T19:09:49.153431,Cologne,app,Could not add payment method; app bug after update.,App_bug
+T0039,2025-08-12T11:01:49.153431,Berlin,app,Rude attitude from the driver; please take action.,Driver_behavior
+T0040,2025-08-08T17:31:49.153431,Cologne,email,I want a refund but the help center link is broken.,Support
+T0041,2025-08-14T13:16:49.153431,Berlin,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0042,2025-08-14T07:20:49.153431,Munich,app,Please update my email on the account.,Support
+T0043,2025-08-07T04:36:49.153431,Munich,email,Receipt shows extra waiting time I didn't have.,Pricing
+T0044,2025-08-15T01:50:49.153431,Cologne,phone,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0045,2025-08-14T16:04:49.153431,Munich,app,My ride arrived 30 minutes late in Berlin. ETA was wrong.,ETA_delay
+T0046,2025-08-05T20:07:49.153431,Munich,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0047,2025-08-07T21:47:49.153431,Hamburg,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0048,2025-08-04T03:29:49.153431,Cologne,app,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0049,2025-08-15T11:04:49.153431,Berlin,phone,Promo code did not apply; charged full price.,Pricing
+T0050,2025-08-15T15:37:49.153431,Cologne,phone,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0051,2025-08-15T11:57:49.153431,Berlin,app,Could not add payment method; app bug after update.,App_bug
+T0052,2025-08-07T14:30:49.153431,Berlin,phone,My ride arrived 31 minutes late in Munich. ETA was wrong.,ETA_delay
+T0053,2025-08-14T22:14:49.153431,Cologne,phone,I was overcharged for a 12 km trip; fare seems wrong.,Pricing
+T0054,2025-08-10T20:36:49.153431,Munich,phone,Map did not load and booking failed.,App_bug
+T0055,2025-08-11T08:39:49.153431,Hamburg,email,Please update my email on the account.,Support
+T0056,2025-08-09T14:20:49.153431,Berlin,app,Promo code did not apply; charged full price.,Pricing
+T0057,2025-08-15T03:00:49.153431,Munich,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0058,2025-08-08T20:24:49.153431,Berlin,app,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0059,2025-08-13T04:51:49.153431,Cologne,phone,Battery warning light turned on while driving.,Vehicle_issue
+T0060,2025-08-02T20:57:49.153431,Berlin,phone,Please update my email on the account.,Support
+T0061,2025-08-14T10:26:49.153431,Munich,email,Map did not load and booking failed.,App_bug
+T0062,2025-08-10T14:16:49.153431,Hamburg,phone,My ride arrived 33 minutes late in Munich. ETA was wrong.,ETA_delay
+T0063,2025-08-10T18:50:49.153431,Cologne,email,Promo code did not apply; charged full price.,Pricing
+T0064,2025-08-10T11:54:49.153431,Berlin,app,My ride arrived 30 minutes late in Cologne. ETA was wrong.,ETA_delay
+T0065,2025-08-10T19:57:49.153431,Munich,phone,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0066,2025-08-04T00:41:49.153431,Berlin,app,Rude attitude from the driver; please take action.,Driver_behavior
+T0067,2025-08-08T09:22:49.153431,Munich,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0068,2025-08-08T11:52:49.153431,Berlin,email,I was overcharged for a 7 km trip; fare seems wrong.,Pricing
+T0069,2025-08-14T10:52:49.153431,Hamburg,phone,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0070,2025-08-11T09:43:49.153431,Munich,app,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0071,2025-08-12T17:03:49.153431,Hamburg,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0072,2025-08-10T17:18:49.153431,Munich,phone,How do I contact support about a lost item?,Support
+T0073,2025-08-06T01:57:49.153431,Munich,app,The estimated time to arrival was off by more than 37 minutes.,ETA_delay
+T0074,2025-08-09T20:20:49.153431,Munich,app,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0075,2025-08-10T10:51:49.153431,Berlin,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0076,2025-08-04T14:10:49.153431,Hamburg,app,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0077,2025-08-15T22:07:49.153431,Berlin,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0078,2025-08-09T15:42:49.153431,Cologne,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0079,2025-08-08T00:38:49.153431,Munich,email,App kept crashing at checkout on Android.,App_bug
+T0080,2025-08-08T12:06:49.153431,Cologne,app,The estimated time to arrival was off by more than 10 minutes.,ETA_delay
+T0081,2025-08-09T15:34:49.153431,Berlin,phone,Please update my email on the account.,Support
+T0082,2025-08-07T11:58:49.153431,Hamburg,email,Battery warning light turned on while driving.,Vehicle_issue
+T0083,2025-08-04T04:14:49.153431,Munich,app,Please update my email on the account.,Support
+T0084,2025-08-12T19:58:49.153431,Hamburg,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0085,2025-08-09T21:03:49.153431,Hamburg,app,App kept crashing at checkout on Android.,App_bug
+T0086,2025-08-06T05:04:49.153431,Cologne,email,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0087,2025-08-05T03:50:49.153431,Cologne,phone,How do I contact support about a lost item?,Support
+T0088,2025-08-05T01:30:49.153431,Hamburg,app,I was overcharged for a 7 km trip; fare seems wrong.,Pricing
+T0089,2025-08-12T06:15:49.153431,Munich,app,Promo code did not apply; charged full price.,Pricing
+T0090,2025-08-06T10:17:49.153431,Cologne,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0091,2025-08-08T01:18:49.153431,Cologne,email,Could not add payment method; app bug after update.,App_bug
+T0092,2025-08-16T15:59:49.153431,Berlin,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0093,2025-08-05T00:08:49.153431,Cologne,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0094,2025-08-14T00:44:49.153431,Cologne,app,Could not add payment method; app bug after update.,App_bug
+T0095,2025-08-06T17:18:49.153431,Cologne,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0096,2025-08-05T23:46:49.153431,Cologne,email,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0097,2025-08-04T22:19:49.153431,Cologne,phone,Promo code did not apply; charged full price.,Pricing
+T0098,2025-08-15T00:42:49.153431,Hamburg,app,Promo code did not apply; charged full price.,Pricing
+T0099,2025-08-09T12:24:49.153431,Berlin,app,Battery warning light turned on while driving.,Vehicle_issue
+T0100,2025-08-13T07:33:49.153431,Munich,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0101,2025-08-09T06:18:49.153431,Cologne,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0102,2025-08-07T22:18:49.153431,Berlin,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0103,2025-08-16T15:47:49.153431,Hamburg,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0104,2025-08-04T13:04:49.153431,Munich,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0105,2025-08-05T17:47:49.153431,Berlin,email,Promo code did not apply; charged full price.,Pricing
+T0106,2025-08-13T00:52:49.153431,Cologne,app,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0107,2025-08-07T19:49:49.153431,Berlin,app,App kept crashing at checkout on Android.,App_bug
+T0108,2025-08-13T16:54:49.153431,Cologne,app,I want a refund but the help center link is broken.,Support
+T0109,2025-08-11T23:25:49.153431,Cologne,email,Pickup was late and the app kept changing ETA.,ETA_delay
+T0110,2025-08-10T11:03:49.153431,Cologne,email,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0111,2025-08-08T19:53:49.153431,Munich,phone,The estimated time to arrival was off by more than 10 minutes.,ETA_delay
+T0112,2025-08-11T03:58:49.153431,Munich,app,My ride arrived 34 minutes late in Berlin. ETA was wrong.,ETA_delay
+T0113,2025-08-11T08:44:49.153431,Munich,email,Could not add payment method; app bug after update.,App_bug
+T0114,2025-08-03T23:00:49.153431,Munich,email,Need help changing my booking time.,Support
+T0115,2025-08-08T09:33:49.153431,Munich,phone,Please update my email on the account.,Support
+T0116,2025-08-13T01:34:49.153431,Hamburg,app,App kept crashing at checkout on Android.,App_bug
+T0117,2025-08-09T16:38:49.153431,Cologne,email,App kept crashing at checkout on Android.,App_bug
+T0118,2025-08-15T01:30:49.153431,Munich,app,How do I contact support about a lost item?,Support
+T0119,2025-08-03T03:06:49.153431,Berlin,phone,Please update my email on the account.,Support
+T0120,2025-08-08T08:38:49.153431,Berlin,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0121,2025-08-16T12:06:49.153431,Cologne,email,Please update my email on the account.,Support
+T0122,2025-08-06T07:56:49.153431,Munich,email,The estimated time to arrival was off by more than 40 minutes.,ETA_delay
+T0123,2025-08-04T13:06:49.153431,Cologne,email,Promo code did not apply; charged full price.,Pricing
+T0124,2025-08-09T10:59:49.153431,Munich,app,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0125,2025-08-11T05:50:49.153431,Cologne,phone,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0126,2025-08-09T03:17:49.153431,Berlin,email,Notification stuck; app shows spinner forever.,App_bug
+T0127,2025-08-05T16:44:49.153431,Munich,email,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0128,2025-08-10T10:17:49.153431,Hamburg,phone,Battery warning light turned on while driving.,Vehicle_issue
+T0129,2025-08-07T13:03:49.153431,Cologne,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0130,2025-08-05T14:57:49.153431,Cologne,app,Receipt shows extra waiting time I didn't have.,Pricing
+T0131,2025-08-11T06:08:49.153431,Hamburg,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0132,2025-08-06T00:33:49.153431,Hamburg,email,Map did not load and booking failed.,App_bug
+T0133,2025-08-08T18:52:49.153431,Cologne,email,Please update my email on the account.,Support
+T0134,2025-08-11T13:06:49.153431,Berlin,phone,Battery warning light turned on while driving.,Vehicle_issue
+T0135,2025-08-04T14:21:49.153431,Munich,app,Promo code did not apply; charged full price.,Pricing
+T0136,2025-08-03T09:01:49.153431,Hamburg,app,Receipt shows extra waiting time I didn't have.,Pricing
+T0137,2025-08-08T13:55:49.153431,Munich,email,Promo code did not apply; charged full price.,Pricing
+T0138,2025-08-15T13:14:49.153431,Hamburg,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0139,2025-08-16T12:19:49.153431,Hamburg,email,Receipt shows extra waiting time I didn't have.,Pricing
+T0140,2025-08-09T00:56:49.153431,Munich,app,Rude attitude from the driver; please take action.,Driver_behavior
+T0141,2025-08-14T04:42:49.153431,Berlin,email,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0142,2025-08-03T15:53:49.153431,Berlin,app,Driver was speeding and driving aggressively.,Driver_behavior
+T0143,2025-08-11T03:28:49.153431,Berlin,phone,Promo code did not apply; charged full price.,Pricing
+T0144,2025-08-04T21:37:49.153431,Cologne,email,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0145,2025-08-03T09:36:49.153431,Cologne,email,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0146,2025-08-02T22:04:49.153431,Berlin,app,App kept crashing at checkout on Android.,App_bug
+T0147,2025-08-10T18:29:49.153431,Berlin,app,How do I contact support about a lost item?,Support
+T0148,2025-08-15T02:01:49.153431,Munich,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0149,2025-08-03T06:42:49.153431,Cologne,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0150,2025-08-06T11:03:49.153431,Berlin,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0151,2025-08-03T08:54:49.153431,Munich,email,Promo code did not apply; charged full price.,Pricing
+T0152,2025-08-10T17:56:49.153431,Munich,app,Driver took a long route; massive delay to the destination.,ETA_delay
+T0153,2025-08-03T06:02:49.153431,Hamburg,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0154,2025-08-07T15:11:49.153431,Hamburg,phone,The estimated time to arrival was off by more than 32 minutes.,ETA_delay
+T0155,2025-08-06T19:56:49.153431,Berlin,phone,Notification stuck; app shows spinner forever.,App_bug
+T0156,2025-08-03T01:18:49.153431,Hamburg,app,The estimated time to arrival was off by more than 33 minutes.,ETA_delay
+T0157,2025-08-10T15:49:49.153431,Berlin,app,Driver took a long route; massive delay to the destination.,ETA_delay
+T0158,2025-08-10T11:06:49.153431,Munich,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0159,2025-08-14T17:11:49.153431,Cologne,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0160,2025-08-09T11:40:49.153431,Berlin,app,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0161,2025-08-05T12:25:49.153431,Hamburg,phone,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0162,2025-08-06T10:37:49.153431,Berlin,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0163,2025-08-14T03:42:49.153431,Cologne,phone,Battery warning light turned on while driving.,Vehicle_issue
+T0164,2025-08-12T12:34:49.153431,Hamburg,phone,The estimated time to arrival was off by more than 23 minutes.,ETA_delay
+T0165,2025-08-15T14:49:49.153431,Munich,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0166,2025-08-10T05:42:49.153431,Cologne,phone,Could not add payment method; app bug after update.,App_bug
+T0167,2025-08-16T03:15:49.153431,Munich,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0168,2025-08-16T11:32:49.153431,Cologne,app,Promo code did not apply; charged full price.,Pricing
+T0169,2025-08-14T02:51:49.153431,Munich,email,I was overcharged for a 10 km trip; fare seems wrong.,Pricing
+T0170,2025-08-05T05:06:49.153431,Hamburg,email,Please update my email on the account.,Support
+T0171,2025-08-11T05:54:49.153431,Cologne,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0172,2025-08-03T03:40:49.153431,Munich,app,Receipt shows extra waiting time I didn't have.,Pricing
+T0173,2025-08-09T01:23:49.153431,Hamburg,app,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0174,2025-08-03T10:28:49.153431,Cologne,app,Battery warning light turned on while driving.,Vehicle_issue
+T0175,2025-08-08T22:31:49.153431,Hamburg,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0176,2025-08-06T10:20:49.153431,Hamburg,app,Notification stuck; app shows spinner forever.,App_bug
+T0177,2025-08-03T18:44:49.153431,Cologne,app,How do I contact support about a lost item?,Support
+T0178,2025-08-09T13:14:49.153431,Cologne,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0179,2025-08-13T07:56:49.153431,Cologne,app,Rude attitude from the driver; please take action.,Driver_behavior
+T0180,2025-08-06T18:33:49.153431,Berlin,phone,Promo code did not apply; charged full price.,Pricing
+T0181,2025-08-13T12:17:49.153431,Cologne,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0182,2025-08-10T18:16:49.153431,Hamburg,phone,I was overcharged for a 10 km trip; fare seems wrong.,Pricing
+T0183,2025-08-14T23:09:49.153431,Hamburg,phone,I want a refund but the help center link is broken.,Support
+T0184,2025-08-09T14:04:49.153431,Cologne,phone,Notification stuck; app shows spinner forever.,App_bug
+T0185,2025-08-11T14:46:49.153431,Berlin,email,My ride arrived 17 minutes late in Hamburg. ETA was wrong.,ETA_delay
+T0186,2025-08-09T23:28:49.153431,Berlin,app,My ride arrived 24 minutes late in Munich. ETA was wrong.,ETA_delay
+T0187,2025-08-10T02:47:49.153431,Hamburg,email,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0188,2025-08-11T05:39:49.153431,Cologne,phone,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0189,2025-08-12T22:10:49.153431,Munich,app,How do I contact support about a lost item?,Support
+T0190,2025-08-11T07:29:49.153431,Cologne,phone,Notification stuck; app shows spinner forever.,App_bug
+T0191,2025-08-11T00:18:49.153431,Cologne,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0192,2025-08-06T04:55:49.153431,Hamburg,phone,Need help changing my booking time.,Support
+T0193,2025-08-15T02:40:49.153431,Cologne,email,Could not add payment method; app bug after update.,App_bug
+T0194,2025-08-07T03:17:49.153431,Hamburg,email,Map did not load and booking failed.,App_bug
+T0195,2025-08-08T00:55:49.153431,Cologne,app,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0196,2025-08-08T14:58:49.153431,Hamburg,phone,Receipt shows extra waiting time I didn't have.,Pricing
+T0197,2025-08-07T18:51:49.153431,Hamburg,app,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0198,2025-08-02T23:50:49.153431,Cologne,email,App kept crashing at checkout on Android.,App_bug
+T0199,2025-08-12T11:10:49.153431,Hamburg,phone,Promo code did not apply; charged full price.,Pricing
+T0200,2025-08-14T13:57:49.153431,Berlin,email,How do I contact support about a lost item?,Support
+T0201,2025-08-03T14:29:49.153431,Hamburg,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0202,2025-08-09T08:35:49.153431,Cologne,app,I was overcharged for a 7 km trip; fare seems wrong.,Pricing
+T0203,2025-08-04T12:25:49.153431,Hamburg,phone,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0204,2025-08-13T01:09:49.153431,Hamburg,email,Map did not load and booking failed.,App_bug
+T0205,2025-08-14T04:07:49.153431,Cologne,app,Battery warning light turned on while driving.,Vehicle_issue
+T0206,2025-08-07T17:58:49.153431,Hamburg,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0207,2025-08-10T18:35:49.153431,Berlin,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0208,2025-08-03T11:46:49.153431,Cologne,phone,Battery warning light turned on while driving.,Vehicle_issue
+T0209,2025-08-11T11:19:49.153431,Cologne,app,The car AC was not working and engine temperature seemed high.,Vehicle_issue
+T0210,2025-08-02T21:49:49.153431,Munich,phone,Map did not load and booking failed.,App_bug
+T0211,2025-08-07T12:01:49.153431,Berlin,app,The estimated time to arrival was off by more than 39 minutes.,ETA_delay
+T0212,2025-08-14T03:35:49.153431,Berlin,app,My ride arrived 19 minutes late in Cologne. ETA was wrong.,ETA_delay
+T0213,2025-08-07T22:45:49.153431,Cologne,email,Could not add payment method; app bug after update.,App_bug
+T0214,2025-08-03T10:15:49.153431,Munich,email,I want a refund but the help center link is broken.,Support
+T0215,2025-08-05T15:46:49.153431,Cologne,email,Need help changing my booking time.,Support
+T0216,2025-08-06T16:09:49.153431,Munich,email,Pickup was late and the app kept changing ETA.,ETA_delay
+T0217,2025-08-15T09:56:49.153431,Cologne,email,Pickup was late and the app kept changing ETA.,ETA_delay
+T0218,2025-08-14T16:57:49.153431,Munich,phone,I was overcharged for a 10 km trip; fare seems wrong.,Pricing
+T0219,2025-08-15T15:23:49.153431,Hamburg,app,Need help changing my booking time.,Support
+T0220,2025-08-04T04:20:49.153431,Munich,phone,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0221,2025-08-13T10:25:49.153431,Berlin,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0222,2025-08-11T02:07:49.153431,Munich,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0223,2025-08-13T19:02:49.153431,Berlin,email,Need help changing my booking time.,Support
+T0224,2025-08-12T19:51:49.153431,Hamburg,app,Promo code did not apply; charged full price.,Pricing
+T0225,2025-08-14T04:56:49.153431,Berlin,email,Receipt shows extra waiting time I didn't have.,Pricing
+T0226,2025-08-05T02:43:49.153431,Berlin,email,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0227,2025-08-02T19:05:49.153431,Berlin,phone,Could not add payment method; app bug after update.,App_bug
+T0228,2025-08-06T08:51:49.153431,Berlin,app,Please update my email on the account.,Support
+T0229,2025-08-07T02:12:49.153431,Berlin,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0230,2025-08-15T02:52:49.153431,Berlin,email,I want a refund but the help center link is broken.,Support
+T0231,2025-08-15T07:08:49.153431,Munich,email,Could not add payment method; app bug after update.,App_bug
+T0232,2025-08-08T02:59:49.153431,Hamburg,email,Map did not load and booking failed.,App_bug
+T0233,2025-08-14T12:51:49.153431,Berlin,phone,Notification stuck; app shows spinner forever.,App_bug
+T0234,2025-08-07T00:08:49.153431,Cologne,app,How do I contact support about a lost item?,Support
+T0235,2025-08-06T11:20:49.153431,Cologne,email,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0236,2025-08-09T16:19:49.153431,Cologne,email,Need help changing my booking time.,Support
+T0237,2025-08-08T06:35:49.153431,Munich,phone,Please update my email on the account.,Support
+T0238,2025-08-14T17:11:49.153431,Berlin,app,Driver was speeding and driving aggressively.,Driver_behavior
+T0239,2025-08-08T07:30:49.153431,Munich,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0240,2025-08-07T10:39:49.153431,Hamburg,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0241,2025-08-10T05:55:49.153431,Hamburg,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0242,2025-08-11T16:32:49.153431,Berlin,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0243,2025-08-14T04:16:49.153431,Hamburg,phone,Map did not load and booking failed.,App_bug
+T0244,2025-08-02T19:55:49.153431,Berlin,phone,Receipt shows extra waiting time I didn't have.,Pricing
+T0245,2025-08-16T03:12:49.153431,Munich,email,Please update my email on the account.,Support
+T0246,2025-08-09T01:25:49.153431,Hamburg,app,Please update my email on the account.,Support
+T0247,2025-08-07T16:08:49.153431,Berlin,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0248,2025-08-14T16:54:49.153431,Munich,email,Need help changing my booking time.,Support
+T0249,2025-08-09T00:50:49.153431,Munich,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0250,2025-08-03T21:02:49.153431,Berlin,app,Battery warning light turned on while driving.,Vehicle_issue
+T0251,2025-08-15T15:50:49.153431,Berlin,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0252,2025-08-05T17:46:49.153431,Cologne,email,Rude attitude from the driver; please take action.,Driver_behavior
+T0253,2025-08-05T03:12:49.153431,Berlin,email,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0254,2025-08-10T08:19:49.153431,Cologne,phone,Driver was speeding and driving aggressively.,Driver_behavior
+T0255,2025-08-15T18:12:49.153431,Munich,email,Please update my email on the account.,Support
+T0256,2025-08-16T14:49:49.153431,Munich,email,App kept crashing at checkout on Android.,App_bug
+T0257,2025-08-10T23:28:49.153431,Hamburg,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0258,2025-08-12T19:03:49.153431,Munich,email,My ride arrived 25 minutes late in Cologne. ETA was wrong.,ETA_delay
+T0259,2025-08-05T09:48:49.153431,Hamburg,app,Could not add payment method; app bug after update.,App_bug
+T0260,2025-08-06T20:46:49.153431,Berlin,email,Driver was speeding and driving aggressively.,Driver_behavior
+T0261,2025-08-03T17:51:49.153431,Cologne,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0262,2025-08-10T04:54:49.153431,Berlin,email,I want a refund but the help center link is broken.,Support
+T0263,2025-08-08T13:23:49.153431,Berlin,email,Pickup was late and the app kept changing ETA.,ETA_delay
+T0264,2025-08-04T20:51:49.153431,Berlin,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0265,2025-08-11T18:00:49.153431,Hamburg,app,Battery warning light turned on while driving.,Vehicle_issue
+T0266,2025-08-08T20:12:49.153431,Hamburg,phone,My ride arrived 26 minutes late in Munich. ETA was wrong.,ETA_delay
+T0267,2025-08-11T09:58:49.153431,Berlin,app,How do I contact support about a lost item?,Support
+T0268,2025-08-12T20:15:49.153431,Munich,phone,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0269,2025-08-06T05:38:49.153431,Cologne,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0270,2025-08-09T14:21:49.153431,Munich,email,Map did not load and booking failed.,App_bug
+T0271,2025-08-10T13:00:49.153431,Berlin,email,The estimated time to arrival was off by more than 24 minutes.,ETA_delay
+T0272,2025-08-09T17:29:49.153431,Cologne,email,App kept crashing at checkout on Android.,App_bug
+T0273,2025-08-15T01:06:49.153431,Berlin,phone,My ride arrived 21 minutes late in Hamburg. ETA was wrong.,ETA_delay
+T0274,2025-08-06T06:18:49.153431,Berlin,email,Notification stuck; app shows spinner forever.,App_bug
+T0275,2025-08-09T11:25:49.153431,Cologne,phone,Could not add payment method; app bug after update.,App_bug
+T0276,2025-08-14T10:29:49.153431,Hamburg,phone,I was overcharged for a 10 km trip; fare seems wrong.,Pricing
+T0277,2025-08-06T19:56:49.153431,Cologne,phone,Driver took a long route; massive delay to the destination.,ETA_delay
+T0278,2025-08-08T12:16:49.153431,Hamburg,email,Could not add payment method; app bug after update.,App_bug
+T0279,2025-08-09T02:13:49.153431,Berlin,phone,Rude attitude from the driver; please take action.,Driver_behavior
+T0280,2025-08-15T07:01:49.153431,Hamburg,app,Please update my email on the account.,Support
+T0281,2025-08-10T07:50:49.153431,Hamburg,phone,Notification stuck; app shows spinner forever.,App_bug
+T0282,2025-08-09T04:57:49.153431,Berlin,phone,How do I contact support about a lost item?,Support
+T0283,2025-08-08T19:58:49.153431,Hamburg,phone,How do I contact support about a lost item?,Support
+T0284,2025-08-13T20:35:49.153431,Berlin,email,I want a refund but the help center link is broken.,Support
+T0285,2025-08-09T07:37:49.153431,Munich,phone,Notification stuck; app shows spinner forever.,App_bug
+T0286,2025-08-07T03:46:49.153431,Hamburg,app,Need help changing my booking time.,Support
+T0287,2025-08-12T16:34:49.153431,Munich,email,Battery warning light turned on while driving.,Vehicle_issue
+T0288,2025-08-11T15:17:49.153431,Munich,app,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0289,2025-08-05T05:45:49.153431,Berlin,phone,Pickup was late and the app kept changing ETA.,ETA_delay
+T0290,2025-08-03T04:50:49.153431,Cologne,app,Vehicle made strange vibration and noise during ride.,Vehicle_issue
+T0291,2025-08-13T00:36:49.153431,Cologne,app,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0292,2025-08-11T09:17:49.153431,Cologne,phone,Driver missed the pickup point and didn't follow the route.,Driver_behavior
+T0293,2025-08-11T11:13:49.153431,Munich,email,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0294,2025-08-08T10:07:49.153431,Cologne,email,Unprofessional behavior; driver talked on the phone while driving.,Driver_behavior
+T0295,2025-08-05T08:21:49.153431,Cologne,app,Check engine light appeared; car needs maintenance.,Vehicle_issue
+T0296,2025-08-15T14:31:49.153431,Cologne,email,Why is the surge so high? Price unexpectedly expensive.,Pricing
+T0297,2025-08-05T01:15:49.153431,Berlin,email,App kept crashing at checkout on Android.,App_bug
+T0298,2025-08-05T02:39:49.153431,Munich,email,Driver took a long route; massive delay to the destination.,ETA_delay
+T0299,2025-08-08T20:05:49.153431,Berlin,email,Driver took a long route; massive delay to the destination.,ETA_delay

@@ -1,0 +1,2 @@
+AveragePrecision=0.0000
+Precision@50=0.0000

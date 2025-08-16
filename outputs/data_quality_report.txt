@@ -1,0 +1,6 @@
+DATA QUALITY REPORT
+Rows: 2000
+Columns: ['order_id', 'city', 'ts', 'origin_lat', 'origin_lon', 'dest_lat', 'dest_lon', 'distance_km', 'demand_index', 'supply_index', 'eta_promised_min', 'eta_actual_min', 'base_price', 'paid_price', 'hour', 'day_of_week']
+
+Issues:
+ - None found

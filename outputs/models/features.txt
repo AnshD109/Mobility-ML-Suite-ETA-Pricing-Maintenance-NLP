@@ -1,0 +1,11 @@
+distance_km
+dist_sq
+hour
+day_of_week
+peak_hour
+demand_index
+supply_index
+demand_supply_ratio
+weekend
+city__Berlin
+city__Munich
