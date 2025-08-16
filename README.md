@@ -1,4 +1,4 @@
-```markdown
+
 # Mobility ML Suite — ETA, Pricing, Maintenance & NLP
 
 End-to-end mobility data-science project that mirrors real work:
@@ -10,7 +10,7 @@ End-to-end mobility data-science project that mirrors real work:
 > Tech: Python 3.11 · FastAPI · scikit-learn · pandas · joblib · Evidently · Streamlit  
 > OS focus: Windows/PowerShell (commands work cross-platform with small tweaks)
 
----
+
 
 ## Project structure
 ```
