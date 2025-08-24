@@ -7,7 +7,6 @@ import pandas as pd
 import numpy as np
 import json
 
-
 # pydantic v1-compatible models
 class TelemetryPoint(BaseModel):
     ts: Optional[str] = None
