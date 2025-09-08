@@ -4,6 +4,7 @@ import pandas as pd
 from evidently.report import Report
 from evidently.metric_preset import DataDriftPreset
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--ref', default=None, help='Reference CSV (training-like)')
