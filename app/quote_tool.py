@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
 
+
 st.set_page_config(page_title="Quote Tool", layout="centered")
 st.title("ETA + Price Quote Tool")
 
