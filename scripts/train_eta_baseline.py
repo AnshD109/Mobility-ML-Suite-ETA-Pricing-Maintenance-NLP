@@ -7,6 +7,7 @@ from sklearn.metrics import mean_absolute_error, r2_score
 
 DATA_PATH = Path("data/raw/orders_sample.csv")
 
+
 def main():
     df = pd.read_csv(DATA_PATH, parse_dates=["ts"])
     # Create features
