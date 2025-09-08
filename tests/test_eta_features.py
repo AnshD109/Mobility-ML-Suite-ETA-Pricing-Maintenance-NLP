@@ -1,6 +1,7 @@
 import pandas as pd
 from src.features.eta_features import basic_eta_features
 
+
 def test_basic_eta_features_shapes():
     df = pd.DataFrame([{
         "distance_km": 5.0,
