@@ -1,7 +1,6 @@
 import streamlit as st
 import requests
 
-
 st.set_page_config(page_title="Incident NLP Triage", layout="centered")
 st.title("NLP Triage — classify & explore topics")
 
