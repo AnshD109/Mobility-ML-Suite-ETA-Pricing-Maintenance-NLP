@@ -7,6 +7,7 @@ st.title("ETA + Price Quote Tool")
 st.caption("Point this at your running API (Step 6). Default is http://127.0.0.1:8000")
 api_url = st.text_input("API base URL", "http://127.0.0.1:8000")
 
+
 with st.form("quote_form"):
     col1, col2 = st.columns(2)
     distance_km = col1.number_input("Distance (km)", min_value=0.0, value=5.0, step=0.1)
