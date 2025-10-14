@@ -8,6 +8,7 @@ import pandas as pd
 from src.features.eta_features import basic_eta_features
 from policy.pricing_rules import compute_price
 
+
 def ensure_feature_columns(df, cols):
     for c in cols:
         if c not in df.columns:
