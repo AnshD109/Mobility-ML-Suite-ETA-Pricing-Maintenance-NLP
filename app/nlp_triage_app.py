@@ -1,9 +1,8 @@
-import streamlit as st
+Imimport streamlit as st
 import requests
 
 st.set_page_config(page_title="Incident NLP Triage", layout="centered")
 st.title("NLP Triage — classify & explore topics")
-
 
 api_url = st.text_input("API base URL", "http://127.0.0.1:8000")
 
