@@ -17,6 +17,7 @@ with st.form("quote_form"):
     city = col2.selectbox("City", ["Berlin","Munich","Other"])
     submitted = st.form_submit_button("Get Quote")
 
+
 if submitted:
     body = {
         "distance_km": distance_km,
