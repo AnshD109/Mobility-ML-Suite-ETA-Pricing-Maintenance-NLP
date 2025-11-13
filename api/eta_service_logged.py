@@ -14,6 +14,7 @@ def ensure_feature_columns(df, cols):
             df[c] = 0
     return df[cols]
 
+
 LOG_DIR = Path('outputs') / 'logs'
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_FILE = LOG_DIR / 'requests.csv'
