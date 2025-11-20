@@ -6,7 +6,6 @@ import pandas as pd
 import uuid
 import datetime as dt
 
-
 from src.features.eta_features import basic_eta_features
 
 def ensure_feature_columns(df, cols):
