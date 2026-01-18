@@ -172,11 +172,15 @@ python -m pytest -q
 
 ---
 
-## Results (fill with your numbers)
+## Results
 
-* **ETA**: MAE ≈ *X* min, R² ≈ *Y*
-* **Maintenance**: Average Precision ≈ *A* (see `outputs/maintenance/metrics_calibrated.txt`)
-* **NLP**: F1\_macro ≈ *B* (printed by the training script)
+* **ETA (baseline)**: MAE = **1.864 min**, R² = **0.727**
+* **ETA (quantile, P50)**: MAE = **1.801 min**, R² = **0.751**
+  * **Uncertainty (P10–P90)**: coverage = **0.708**, avg interval width = **5.058 min**
+* **ETA (time-aware)**: MAE = **1.929 min**, R² = **0.768**
+* **Maintenance**: Average Precision = **A** (see `outputs/maintenance/metrics_calibrated.txt`)
+* **NLP**: F1_macro = **B** (printed by the training script)
+
 
 ---
 
