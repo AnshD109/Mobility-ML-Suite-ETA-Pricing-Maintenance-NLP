@@ -178,7 +178,7 @@ python -m pytest -q
 * **ETA (quantile, P50)**: MAE = **1.801 min**, R² = **0.751**
   * **Uncertainty (P10–P90)**: coverage = **0.708**, avg interval width = **5.058 min**
 * **ETA (time-aware)**: MAE = **1.929 min**, R² = **0.768**
-* **Maintenance**: Average Precision = **A** (see `outputs/maintenance/metrics_calibrated.txt`)
+* **Maintenance**: Average Precision = **0.0017**
 * **NLP**: F1_macro = **B** (printed by the training script)
 
 
