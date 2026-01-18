@@ -186,29 +186,3 @@ python -m pytest -q
 * **Model file not found** → rerun the training commands.
 * **Evidently import errors** → use `.venv-dev` with `pydantic==1.10.13`, `numpy==1.26.4`.
 * **Pytest imports failing** → ensure you run `python -m pytest` *after* activating `.venv`.
-
----
-
-## .gitignore (suggested)
-
-```
-.venv/
-.venv-dev/
-__pycache__/
-*.pyc
-outputs/
-*.log
-.idea/
-.vscode/
-.pytest_cache/
-```
-
----
-
-## License
-
-MIT — see LICENSE (or choose your preferred license).
-
-## Author
-
-Your Name — LinkedIn • Portfolio
